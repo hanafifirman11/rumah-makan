@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.firman</groupId>
+        <artifactId>rumah-makan</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.firman</groupId>
+    <version>1.0.0-SNAPSHOT</version>
+    <artifactId>rumah-makan-tegal</artifactId>
+    <packaging>jar</packaging>
+
+    <name>rumah-makan-tegal</name>
+    <description>Sample apps Springboot project for rumah-makan-tegal</description>
+
+    <properties>
+        <java.version>1.8</java.version>
+    </properties>
+
+
+</project>
