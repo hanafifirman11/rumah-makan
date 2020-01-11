@@ -1,2 +1,9 @@
 *.iml
 .idea
+rumah-makan-authorization/target
+rumah-makan-gateway/target
+rumah-makan-login/target
+rumah-makan-sunda-api/target
+rumah-makan-padang-api/target
+rumah-makan-tegal-api/target
+target
